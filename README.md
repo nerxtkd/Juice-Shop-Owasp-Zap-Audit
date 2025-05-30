@@ -34,7 +34,7 @@ Este proyecto forma parte del aprendizaje y no está destinado a producción.
 Realizado como parte del ciclo de Grado de especialización en Ciberseguridad.
 
 ## 📂 Archivos importantes
-📷  [Reporte_HTML](https://github.com/nerxtkd/screenshots/Logro_Zero_Stars.png)
+📷  [Reporte_HTML](https://github.com/nerxtkd/juice-shop-owasp-zap-audit/blob/main/report/ZAP-Report-127.0.0.1.html)
 📄  [UT02_Practica2_PPS.pdf](https://github.com/nerxtkd/Documentaciones/blob/main/UT02_Practica2_PPS.pdf)
 
 ## 🔗 Autora
