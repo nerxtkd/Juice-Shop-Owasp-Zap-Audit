@@ -40,7 +40,8 @@ Realizado como parte del ciclo de Grado de especialización en Ciberseguridad.
 📄  [Juice-Shop-Owasp-Zap-Audit_UT02_Práctica2_PPS.pdf](https://github.com/nerxtkd/Documentaciones/blob/main/Juice-Shop-Owasp-Zap-Audit_UT02_Pr%C3%A1ctica2_PPS.pdf)
 
 ## 👩‍💻 Autora:
-Trabajo realizado por Nerea C. 
-Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
+Trabajo realizado por Nerea C.  
+🔗 Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
+
 
 
