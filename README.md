@@ -3,6 +3,8 @@
 Este proyecto se ha ejecutado como práctica del módulo "Puesta en Producción Segura" del curso de especialización en Ciberseguridad.
 Se muestra una auditoría de seguridad web realizada como práctica formativa sobre la aplicación vulnerable **OWASP Juice Shop** utilizando **OWASP ZAP**, una herramienta automatizada de análisis de seguridad para aplicaciones web.
 
+---
+
 ## 🔧 Herramientas utilizadas
 - Entorno Virtual en una máquina kali Linux, alojada en oracle VM Virtualbox 7.0.20
 - OWASP Juice Shop (`http://127.0.0.1:3000`)
@@ -37,8 +39,8 @@ Realizado como parte del ciclo de Grado de especialización en Ciberseguridad.
 📷  [Reporte_HTML](https://github.com/nerxtkd/juice-shop-owasp-zap-audit/blob/main/report/ZAP-Report-127.0.0.1.html)
 📄  [Juice-Shop-Owasp-Zap-Audit_UT02_Práctica2_PPS.pdf](https://github.com/nerxtkd/Documentaciones/blob/main/Juice-Shop-Owasp-Zap-Audit_UT02_Pr%C3%A1ctica2_PPS.pdf)
 
-## 🔗 Autora
+## 👩‍💻 Autora:
+Trabajo realizado por Nerea C. 
+Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
 
-Proyecto realizado por [Nerea C.]  
-GitHub: [nerxtkd](https://github.com/nerxtkd)
 
